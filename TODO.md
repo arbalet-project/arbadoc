@@ -7,9 +7,10 @@
 ## Missing features
 ### High priority and/or short-term
 * [Software] Centralize X11 events in a shared class of the SDK for non-graphical applications, cf commit 8f9944786315db74180b7f81ca24f062ac18ad4d
+* [Arbapp] Allow apps to fade down when receiving SIGTERM or a custom signal SIGUSR1 for smooth loops with Arbaloop
+* [ColorDemo] Include a step-by-step generator that does not "floatize" colors to avoid crenelating dark colors like [10, 10,0] (+ apply to the --brightness arg somehow?)
 * [Arbapp] Clean pygame.event collection and sharing in Arbapp 
 * [LightsHero] Extend compatibility of SongReader to other songs, especially by being compatible with variable tempos (SetTempoEvent events)
-* [Tetris] Fix joystick by looking for a hat-compatible joystick (Some computers have a fake embeded joystick, that should be ignored)
 * [Arbasim/Arbalink/Arbapp] remove all threading systems from the SDK by requiring a loop in Arbapp (like Arduino setup() loop()). Issue: what about the interactive mode?
 
 ### Low priority and/or long-term
@@ -36,3 +37,4 @@
 * [LigthsHero] In class UserHits pygame.events should work even with no window (example: RPi in headless mode; pygame events?) [8f9944786315db74180b7f81ca24f062ac18ad4d]
 * [Software] Test Windows support, tag config/devices should depend on the OS [85e9c8282ea13dc3d0d87f3bbe0ddd7ecf689b35 ; Windows support still to be thought about]
 * [Tetris] Add keyboard support + use events instead of active polling of joystick, issue: events don't suffice when the key stay pressed [4f517d19cefb3b83535cb3b17f5a1c7c5ee8108f]
+* [Tetris] Fix joystick by looking for a hat-compatible joystick (Some computers have a fake embeded joystick, that should be ignored) [4f517d19cefb3b83535cb3b17f5a1c7c5ee8108f]

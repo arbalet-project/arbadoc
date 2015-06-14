@@ -1,8 +1,10 @@
 # TODO list
 ## Bugs and Issues
-* [Hardware]  Even when not driven, the blue color is never really stable and flashes somehow
+* [Hardware]  Even when not driven, the blue color is never really stable and flashes somehow:
 * [Software][Arbasim] Some pygame/pulseaudio thread burns the CPU ([Mint bug report](https://bugs.launchpad.net/linuxmint/+bug/1451614))
 * [arbasdk setup.py] cv2 dependency: installable via pip?
+* [Tetris] some touchdowns are detected abnormally in the middle/corner of the grid and not cancelled
+* [Arbaloop] In some rare cases, it refuses to take into account SIGTERM (the same pygame bug again...?)
 
 ## Missing features
 ### High priority and/or short-term
@@ -14,6 +16,7 @@
 * [Arbasim/Arbalink/Arbapp] remove all threading systems from the SDK by requiring a loop in Arbapp (like Arduino setup() loop()). Issue: what about the interactive mode?
 
 ### Low priority and/or long-term
+* [Software] Sub-pixel grouping feature in the config file for huge surfaces with bigger pixels
 * [Software] Address non-RGB strips
 * [Software] Django-based Web UI for Arbalet for Home
 * [Hardware] Add a small TFT screen to display scores and user instructions

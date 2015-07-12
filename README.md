@@ -4,9 +4,9 @@ Arbalet is an *ARduino-BAsed LED Table*, a plane surface filled with several hun
 
 Arbalet is intended to be easily reproducible, highly customizable, and programmable to create new games, light animations and applications. It's not only a LED table, it's an open development platform. Whether you're looking for a modern, stylish and ready-to-use platform for your home, or a hackable and original platform to teach programming and develop exciting projects, Arbalet is made for you!
 
-Wanna get more information and pictures? Please consult the [Arbalet wiki](https://github.com/arbalet-project/arbadoc/wiki)
+Wanna get more information and pictures? Please consult the [Arbalet wiki](https://github.com/arbalet-project/arbadoc/wiki), here is a video trailer to whet your appetite:
 
-![General view of the table with lights effects](https://github.com/arbalet-project/arbadoc/blob/master/pics/beer_and_flashes.jpg?raw=1)
+[![Arbalet video trailer](https://raw.githubusercontent.com/arbalet-project/arbadoc/master/pics/vimeo_snapshot.jpeg)](https://vimeo.com/arbalet/1)
 
 The project has just started and is looking for beta-testers and passionate makers, to keep in touch: [![Follow @arbalet_project on Twitter](https://raw.githubusercontent.com/arbalet-project/arbadoc/master/graphical_elements/twitter.png)](https://twitter.com/arbalet_project)
 

@@ -9,8 +9,8 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="353.22018"
-   height="352.15231"
+   width="350"
+   height="350"
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
@@ -24,21 +24,25 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="0.094160771"
-     inkscape:cy="62.738946"
+     inkscape:zoom="1.5371429"
+     inkscape:cx="175"
+     inkscape:cy="175"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1056"
-     inkscape:window-x="1440"
+     inkscape:window-height="1031"
+     inkscape:window-x="1920"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
-     fit-margin-bottom="0" />
+     fit-margin-bottom="0"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -47,6 +51,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -54,46 +59,53 @@
      inkscape:label="Calque 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-130.85884,-251.38968)">
-    <path
-       style="fill:#ff00ff"
-       d="m 251.97652,306.38968 0,-55 55,0 55,0 0,55 0,55 -55,0 -55,0 0,-55 z"
-       id="path3019"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:#0066ff"
-       d="m 130.92049,548.542 0,-55 55,0 55,0 0,55 0,55 -55,0 -55,0 0,-55 z"
-       id="path3021"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:#ff6600"
-       d="m 373.00758,306.38968 0,-55 55,0 55,0 0,55 0,55 -55,0 -55,0 0,-55 z"
-       id="path3023"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:#ffcc00"
-       d="m 373.00758,427.70611 0,-55 55,0 55,0 0,55 0,55 -55,0 -55,0 0,-55 z"
-       id="path3025"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:#aad400"
-       d="m 374.07901,548.542 0,-55 55,0 55,0 0,55 0,55 -55,0 -55,0 0,-55 z"
-       id="path3027"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:#dc143c;fill-opacity:1"
-       d="m 130.85884,306.38968 0,-55 55,0 55,0 0,55 0,55 -55,0 -55,0 0,-55 z"
-       id="path3029-3"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:#4400aa"
-       d="m 130.85916,427.70611 0,-55 55,0 55,0 0,55 0,55 -55,0 -55,0 0,-55 z"
-       id="path3021-0"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:#008033"
-       d="m 252.49974,548.542 0,-55 55,0 55,0 0,55 0,55 -55,0 -55,0 0,-55 z"
-       id="path3027-9"
-       inkscape:connector-curvature="0" />
+     transform="translate(-130.85884,-253.7919838476562)">
+    <g
+       id="g4205">
+      <path
+         inkscape:connector-curvature="0"
+         id="rect3341"
+         d="m 250.8588399999996,493.7919838476564 110.0000000000003,0 0,109.9999999999997 -110.0000000000002,0 z"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#008033;fill-opacity:1;fill-rule:nonzero;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+      <path
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffcc00;fill-opacity:1;fill-rule:nonzero;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         d="m 370.8588399999991,373.7919838476565 110.0000000000006,0 0,109.9999999999997 -110.0000000000006,0 z"
+         id="path4146"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4148"
+         d="m 130.8588399999998,373.7919838476565 110.0000000000001,0 0,109.9999999999997 -110,0 z"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#4400aa;fill-opacity:1;fill-rule:nonzero;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+      <path
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ff00ff;fill-opacity:1;fill-rule:nonzero;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         d="m 250.8588399999996,253.7919838476564 110.0000000000003,0 0,109.9999999999999 -110.0000000000002,0 z"
+         id="path4150"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="rect4152"
+         d="m 440.8588399999997,253.7919838476564 c 22.1599999999996,0 40,17.84 40,40 l 0,70 -110.0000000000006,0 0,-109.9999999999998 z"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ff6600;fill-opacity:1;fill-rule:nonzero;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+      <path
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#dc143c;fill-opacity:1;fill-rule:nonzero;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         d="m 170.8588399999998,253.7919838476564 c -22.1599999999996,0 -40,17.84 -40,40 l 0,70 110.0000000000001,0 0,-109.9999999999998 z"
+         id="path4165"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+      <path
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#aad400;fill-opacity:1;fill-rule:nonzero;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         d="m 440.8588399999997,603.791983847656 c 22.1599999999996,0 40,-17.8399999999999 40,-40 l 0,-69.9999999999997 -110.0000000000006,0 0,109.9999999999996 z"
+         id="path4167"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path4169"
+         d="m 170.8588399999998,603.791983847656 c -22.1599999999996,0 -40,-17.8399999999999 -40,-40 l 0,-69.9999999999997 110.0000000000001,0 0,109.9999999999996 z"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#0066ff;fill-opacity:1;fill-rule:nonzero;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    </g>
   </g>
 </svg>
